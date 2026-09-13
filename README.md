@@ -222,3 +222,6 @@ Notepad++ is the official free version with all features and updates included. T
 ---
 
 Don’t miss out on the opportunity to enhance your coding experience with Notepad++. Download it now and unlock a world of coding possibilities!
+
+---
+**Last updated:** 2026-09-13 16:45:38 UTC
